@@ -1,0 +1,5 @@
+# Ignore changes to index.html:
+git update-index --assume-unchanged ui/index.html
+
+sudo apt-get install vagrant virtualbox python-pip
+sudo pip2 install ansible
